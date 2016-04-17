@@ -1,0 +1,8 @@
+This is a small project which will enable you to import your xls file to a database from Nordea bank.
+
+This will be extended with Web front for easy import and edit of the columns.
+
+
+* Password and username is included in file and is only for educational purpose.
+
+Have fun
